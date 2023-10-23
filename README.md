@@ -1,2 +1,2 @@
 # core-annual-plan-metrics
-Repo for the core annual plan metrics - Content, Relevance, Contributors, programatic Expense ratio
+Code for reporting the content diversity metrics: portion of new or improved articles about (1) women and gender-diverse people and (2) about underrepresented regions.
