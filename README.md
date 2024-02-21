@@ -1,2 +1,2 @@
 # core-annual-plan-metrics
-Code for reporting the content diversity metrics: portion of new or improved articles about (1) women and gender-diverse people and (2) about underrepresented regions.
+This repository has been superseded by [movement-metrics](https://github.com/wikimedia-research/movement-metrics).
